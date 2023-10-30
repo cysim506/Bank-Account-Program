@@ -1,6 +1,10 @@
 # Bank Account Program with C
 <br>
-## 프로젝트 수행 절차
+
+
+## 1。프로젝트 수행 절차
+
+
 <img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank1.PNG">
 <br>
 <br>
@@ -23,15 +27,16 @@
 <br>
 <br>
 
-## 프로젝트 수행 결과
-<br>
-
+## 2。프로젝트 수행 결과
 
 ![bank8](https://github.com/cysim506/BankAccountProgram/blob/main/bank8.gif)
 <br>
 <br>
 <br>
 <br>
+
+## 3、자체 평가 의견
+
 <img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank9.PNG">
 
 
