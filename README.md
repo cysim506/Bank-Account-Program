@@ -1,13 +1,11 @@
 # Bank Account Program with C
 <br>
-
-
-## 1。프로젝트 수행 절차
-
-
 <img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank1.PNG">
 <br>
 <br>
+
+## 1。프로젝트 수행 절차
+
 <img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank2.PNG">
 <br>
 <br>
