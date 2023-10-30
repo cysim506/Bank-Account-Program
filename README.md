@@ -1,7 +1,7 @@
 # Bank Account Program with C
 <br>
 
-<img width="600" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank1.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank1.PNG">
 <br>
 <br>
 <img width="600" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank2.PNG">
