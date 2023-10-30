@@ -23,14 +23,13 @@
 <br>
 <br>
 
-
++ Demo
 ![bank8](https://github.com/cysim506/BankAccountProgram/blob/main/bank8.gif)
 <br>
 <br>
 <br>
+<br>
 <img width="８00" alt="image" src="https://github.com/cysim506/BankAccountProgram/blob/main/bank9.PNG">
-<br>
-<br>
 
 
 
